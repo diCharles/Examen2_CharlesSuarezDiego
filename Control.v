@@ -1,3 +1,4 @@
+
 /******************************************************************
 * Description
 *	This is control unit for the MIPS processor. The control unit is 
@@ -29,6 +30,7 @@ localparam R_Type = 0;
 localparam I_Type_ADDI = 6'h8;
 localparam I_Type_ORI = 6'h0d;
 localparam I_Type_MOV = 6'h41;
+localparam I_Type_DIV = 6'h42;	
 
 reg [10:0] ControlValues;
 
