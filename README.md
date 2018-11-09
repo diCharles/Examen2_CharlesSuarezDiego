@@ -1,1 +1,2 @@
-# Examen2_CharlesSuarezDiego
+# MIPS
+MIPS processor
